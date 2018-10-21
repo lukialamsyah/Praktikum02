@@ -41,7 +41,7 @@ int main()
 ```|
 
 hasilnya :
-![img](https://raw.githubusercontent.com/lukialamsyah/Praktikum02/master/lukia1.png)
+![hasil](https://raw.githubusercontent.com/lukialamsyah/Praktikum02/master/lukia1.png)
 
 
 ## latihan2.cpp menghitung bilangan terbesar dari 4 bilangan
